@@ -1,0 +1,24 @@
+[
+  {
+    "id": 5001,
+    "usuarioId": 1,
+    "itens": [
+      { "pratoId": 101, "quantidade": 2 },
+      { "pratoId": 202, "quantidade": 1 }
+    ],
+    "status": "pendente",
+    "valorTotal": 77.8,
+    "dataHora": "2025-09-03T20:30:00Z"
+  },
+  {
+    "id": 5002,
+    "usuarioId": 2,
+    "itens": [
+      { "pratoId": 103, "quantidade": 1 },
+      { "pratoId": 301, "quantidade": 2 }
+    ],
+    "status": "em preparo",
+    "valorTotal": 66.0,
+    "dataHora": "2025-09-03T20:45:00Z"
+  }
+]

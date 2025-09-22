@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nome": "João Silva",
+    "email": "joao.silva@example.com",
+    "senha": "hash123abc",
+    "endereco": "Rua das Flores, 123, São Paulo - SP",
+    "telefone": "(11) 98765-4321",
+    "role": "cliente",
+    "dataCriacao": "2025-09-01T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "nome": "Maria Oliveira",
+    "email": "maria.oliveira@example.com",
+    "senha": "hash456def",
+    "endereco": "Av. Paulista, 2000, São Paulo - SP",
+    "telefone": "(11) 98888-1111",
+    "role": "cliente",
+    "dataCriacao": "2025-09-02T15:45:00Z"
+  },
+  {
+    "id": 3,
+    "nome": "Carlos Souza",
+    "email": "carlos.souza@example.com",
+    "senha": "hash789ghi",
+    "endereco": "Rua das Palmeiras, 55, Rio de Janeiro - RJ",
+    "telefone": "(21) 97777-2222",
+    "role": "funcionario",
+    "dataCriacao": "2025-09-03T09:15:00Z"
+  },
+  {
+    "id": 4,
+    "nome": "Ana Lima",
+    "email": "ana.lima@example.com",
+    "senha": "hash987zyx",
+    "endereco": "Rua Bahia, 444, Belo Horizonte - MG",
+    "telefone": "(31) 96666-3333",
+    "role": "admin",
+    "dataCriacao": "2025-09-05T12:00:00Z"
+  },
+  {
+    "id": 5,
+    "nome": "Felipe Jose",
+    "email": "felipejosea@example.com",
+    "senha": "1234567",
+    "endereco": "Rua das Palmeira, 123",
+    "telefone": "11987654321",
+    "role": "cliente",
+    "dataCriacao": "2025-09-08T22:45:38.899Z"
+  },
+  {
+    "nome": "Matias Jose",
+    "email": "matiasjose@example.com",
+    "senha": "123456799",
+    "endereco": "Rua dos Ventos, 123",
+    "telefone": "11987654321",
+    "role": "cliente",
+    "id": 6,
+    "dataCriacao": "2025-09-09T05:10:38.730Z"
+  }
+]

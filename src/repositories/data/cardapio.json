@@ -1,0 +1,99 @@
+{
+  "categorias": [
+    {
+      "nome": "Pratos Principais",
+      "itens": [
+        {
+          "pratoId": 101,
+          "nome": "Pizza Margherita",
+          "preco": 35.9,
+          "quantidade": 9,
+          "categoria": "massas",
+          "disponivel": true,
+          "descricao": "prato feito com muito amor",
+          "ingredientes": ["Massa de pizza", "Molho de tomate", "Mussarela", "Manjericão", "Azeite"]
+        },
+        {
+          "pratoId": 102,
+          "nome": "Lasanha",
+          "preco": 29.5,
+          "quantidade": 17,
+          "categoria": "massas",
+          "disponivel": true,
+          "descricao": "prato feito com muito amor",
+          "ingredientes": ["Massa de lasanha", "Molho bolonhesa", "Molho branco", "Queijo parmesão"]
+        },
+        {
+          "pratoId": 103,
+          "nome": "Risoto de Cogumelos",
+          "preco": 42.0,
+          "quantidade": 21,
+          "categoria": "massas",
+          "disponivel": true,
+          "descricao": "prato feito com muito amor",
+          "ingredientes": ["Arroz arbóreo", "Cogumelos", "Vinho branco", "Caldo de legumes", "Parmesão"]
+        }
+      ]
+    },
+    {
+      "nome": "Bebidas",
+      "itens": [
+        {
+          "pratoId": 201,
+          "nome": "Suco de Laranja",
+          "preco": 8.5,
+          "quantidade": 22,
+          "categoria": "massas",
+          "disponivel": true,
+          "descricao": "prato feito com muito amor",
+          "ingredientes": ["Laranja fresca", "Água", "Açúcar (opcional)"]
+        },
+        {
+          "pratoId": 202,
+          "nome": "Refrigerante",
+          "preco": 6.0,
+          "quantidade": 26,
+          "categoria": "massas",
+          "disponivel": true,
+          "descricao": "prato feito com muito amor",
+          "ingredientes": ["Água carbonatada", "Açúcar", "Corantes", "Aromas"]
+        },
+        {
+          "pratoId": 203,
+          "nome": "Água com Gás",
+          "preco": 5.0,
+          "quantidade": 25,
+          "categoria": "massas",
+          "disponivel": true,
+          "descricao": "prato feito com muito amor",
+          "ingredientes": ["Água mineral", "Gás carbônico"]
+        }
+      ]
+    },
+    {
+      "nome": "Sobremesas",
+      "itens": [
+        {
+          "pratoId": 301,
+          "nome": "Pudim de Leite",
+          "preco": 12.0,
+          "quantidade": 12,
+          "categoria": "massas",
+          "disponivel": true,
+          "descricao": "prato feito com muito amor",
+          "ingredientes": ["Leite condensado", "Leite", "Ovos", "Açúcar"]
+        },
+        {
+          "pratoId": 302,
+          "nome": "Torta de Limão",
+          "preco": 14.5,
+          "quantidade": 19,
+          "categoria": "massas",
+          "disponivel": true,
+          "descricao": "prato feito com muito amor",
+          "ingredientes": ["Massa de biscoito", "Leite condensado", "Suco de limão", "Chantilly"]
+        }
+      ]
+    }
+  ]
+}
